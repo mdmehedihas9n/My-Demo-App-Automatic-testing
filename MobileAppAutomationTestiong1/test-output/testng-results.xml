@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-29T16:23:57 GMT+06:00" name="Default suite" finished-at="2025-01-29T16:25:20 GMT+06:00" duration-ms="83359">
+    <groups>
+    </groups>
+    <test started-at="2025-01-29T16:23:57 GMT+06:00" name="Default test" finished-at="2025-01-29T16:25:20 GMT+06:00" duration-ms="83359">
+      <class name="mobileTestng.TodayTestngMobileApp">
+        <test-method is-config="true" signature="setDevice()[pri:0, instance:mobileTestng.TodayTestngMobileApp@351d00c0]" started-at="2025-01-29T16:23:57 GMT+06:00" name="setDevice" finished-at="2025-01-29T16:24:16 GMT+06:00" duration-ms="19030" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDevice -->
+        <test-method signature="test_app_one()[pri:0, instance:mobileTestng.TodayTestngMobileApp@351d00c0]" started-at="2025-01-29T16:24:16 GMT+06:00" name="test_app_one" finished-at="2025-01-29T16:25:20 GMT+06:00" duration-ms="64230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_app_one -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:mobileTestng.TodayTestngMobileApp@351d00c0]" started-at="2025-01-29T16:25:20 GMT+06:00" name="closeApp" finished-at="2025-01-29T16:25:20 GMT+06:00" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- mobileTestng.TodayTestngMobileApp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
